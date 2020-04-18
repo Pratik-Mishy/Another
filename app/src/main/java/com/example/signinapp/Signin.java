@@ -42,6 +42,8 @@ public class Signin extends AppCompatActivity {
                 userEmail = email.getText().toString();
                 userPassword = password.getText().toString();
 
+                signUp(userEmail, userPassword);
+
             }
         });
     }
