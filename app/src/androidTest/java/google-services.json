@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841685643388",
+    "firebase_url": "https://firebirdlogin-de29a.firebaseio.com",
+    "project_id": "firebirdlogin-de29a",
+    "storage_bucket": "firebirdlogin-de29a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841685643388:android:a6581871ffd5a97f6bd9f9",
+        "android_client_info": {
+          "package_name": "com.example.signinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841685643388-ckc7jv4mv4cfvt3ioiv8ll3a3h72ddhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy1W2Ak1g9dtPGRkuV_T4u3OfL1EGyaGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841685643388-ckc7jv4mv4cfvt3ioiv8ll3a3h72ddhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
